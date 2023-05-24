@@ -13,4 +13,4 @@
 ⚡️ Fun fact {Gunigtai}
 
 
-<img alt="dsmark" align="right"  style={{display : ablosute, left: 0}} height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img alt="dsmark" align="right"   height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
