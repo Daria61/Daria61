@@ -3,6 +3,7 @@
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 </div>
 <br>
+
 👩‍💻 I'm currently working on my own project "https://take-a-leap.vercel.app/"
 
 🧠 I'm currently learning {NEST, NEXT}
