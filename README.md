@@ -4,13 +4,14 @@
 </div>
 <br>
 👩‍💻 I'm currently working on my own project "https://take-a-leap.vercel.app/"
+
 🧠 I'm currently learning {NEST, NEXT}
-📫 How to reach me {call me maybe}
+
+📫 How to reach me {text me maybe, https://www.instagram.com/daria_rutth/ }
+
 😄 Pronouns {she}
+
 ⚡️ Fun fact {Gunigtai}
-<img alt="dsmark" align="center"   height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -24,3 +25,9 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,html,css,discord,figma,github,js,linux,mysql,nextjs,nodejs,postman,ts,mongodb,express,vscode&perline=14" />
   </a>
 </p>
+
+<img alt="dsmark" align="center"   height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
+
+
+
